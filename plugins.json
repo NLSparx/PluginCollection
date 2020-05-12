@@ -320,7 +320,7 @@
 			"name" : "AssassinPlugin 1.2",
 			"desc" : "Allows one player to know anothers location at all times using a compass",
 			"jarName" : "AssassinPlugin 1.2.jar"
-			"configName" : "AssassinPlugin 1.2."
+			"configName": "AssassinPlugin 1.2."
 		{
 	]
 }
